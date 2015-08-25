@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="http://kotonogbeznog.github.io/YandexKitchenLanding" resolutions="1x" timestamp="1440508165802">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="http://kotonogbeznog.github.io/YandexKitchenLanding" resolutions="1x" timestamp="1440508331742">
   <folder name="css">
     <file name="site_global.css" crc="453856629"/>
     <file name="index.css" crc="4282013440" ref="index"/>
