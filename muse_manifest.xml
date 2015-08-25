@@ -1,6 +1,6 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="http://kotonogbeznog.github.io/Kitchen" resolutions="1x" timestamp="1440507545109">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="http://kotonogbeznog.github.io/YandexKitchenLanding" resolutions="1x" timestamp="1440508165802">
   <folder name="css">
-    <file name="site_global.css" crc="4052507572"/>
+    <file name="site_global.css" crc="453856629"/>
     <file name="index.css" crc="4282013440" ref="index"/>
   </folder>
   <folder name="fonts">
@@ -37,7 +37,7 @@
         <file name="_0.jpg" crc="496157682" mt="1440465166000"/>
       </folder>
       <file name="transparent.png" crc="424353546" mt="1440465166000"/>
-      <file name="Toma_edge.js" crc="68803455" mt="1440465166000"/>
+      <file name="Toma_edge.js" crc="4082447006" mt="1440465166000"/>
       <file name="Toma.html" crc="3849706481" mt="1440465166000"/>
     </folder>
     <file name="video.mp4" crc="46676691" seo="true" mt="1440460899000"/>
@@ -66,5 +66,5 @@
     <file name="4cook-crop-u499.png" crc="4088698033" ref="index"/>
     <file name="5share.jpg" crc="322795300" seo="true" ref="index"/>
   </folder>
-  <file name="index.html" crc="4139602323" seo="true" mt="1440507110516" redirect="true"/>
+  <file name="index.html" crc="295557732" seo="true" mt="1440508090032" redirect="true"/>
 </manifest>
