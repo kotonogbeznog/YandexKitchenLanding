@@ -4,8 +4,8 @@
 
 .version.index /* version checker */
 {
-	color: #0000FF;
-	background-color: #3A5700;
+	color: #0000FD;
+	background-color: #A335AF;
 }
 
 .html
@@ -174,7 +174,7 @@
 	margin-top: 54px;
 }
 
-#U472_animation
+#U590_animation
 {
 	width: 890px;
 	height: 520px;
@@ -422,9 +422,9 @@
 	width: 354px;
 	min-height: 100px;
 	background-color: transparent;
-	line-height: 40px;
 	font-size: 36px;
 	text-align: center;
+	line-height: 40px;
 	font-family: '__Textbook New_5';
 	font-weight: 400;
 	position: relative;

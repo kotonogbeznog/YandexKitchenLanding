@@ -1,7 +1,7 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="http://kotonogbeznog.github.io/YandexKitchenLanding" resolutions="1x" timestamp="1440508331742">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="http://kotonogbeznog.github.io/YandexKitchenLanding" resolutions="1x" timestamp="1440510771274">
   <folder name="css">
     <file name="site_global.css" crc="453856629"/>
-    <file name="index.css" crc="4282013440" ref="index"/>
+    <file name="index.css" crc="4255331759" ref="index"/>
   </folder>
   <folder name="fonts">
     <file name="textbooknew-regular.woff" crc="171508"/>
@@ -10,35 +10,35 @@
   <folder name="assets">
     <folder name="toma">
       <folder name="edge_includes">
-        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1440465166000"/>
+        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1440508143000"/>
       </folder>
       <folder name="images">
-        <file name="A.jpg" crc="3864322352" mt="1440465166000"/>
-        <file name="A.png" crc="54345930" mt="1440465166000"/>
-        <file name="AB.jpg" crc="19033799" mt="1440465166000"/>
-        <file name="ABC.jpg" crc="365047130" mt="1440465166000"/>
-        <file name="ABCD.jpg" crc="236385985" mt="1440465166000"/>
-        <file name="ABD.jpg" crc="4191725222" mt="1440465166000"/>
-        <file name="AC.jpg" crc="304221015" mt="1440465166000"/>
-        <file name="ACD.jpg" crc="4123654701" mt="1440465166000"/>
-        <file name="AM.jpg" crc="111393201" mt="1440465166000"/>
-        <file name="B.jpg" crc="360690234" mt="1440465166000"/>
-        <file name="B.png" crc="386624211" mt="1440465166000"/>
-        <file name="BC.jpg" crc="323548097" mt="1440465166000"/>
-        <file name="BCD.jpg" crc="3873528426" mt="1440465166000"/>
-        <file name="BD.jpg" crc="3798612590" mt="1440465166000"/>
-        <file name="C.jpg" crc="4095540954" mt="1440465166000"/>
-        <file name="C.png" crc="254727606" mt="1440465166000"/>
-        <file name="CD.jpg" crc="357648552" mt="1440465166000"/>
-        <file name="checkbox.png" crc="185430727" mt="1440465166000"/>
-        <file name="D.jpg" crc="314807419" mt="1440465166000"/>
-        <file name="D.png" crc="4100051176" mt="1440465166000"/>
-        <file name="Poster.png" crc="355608496" mt="1440465166000"/>
-        <file name="_0.jpg" crc="496157682" mt="1440465166000"/>
+        <file name="A.jpg" crc="3864322352" mt="1440508143000"/>
+        <file name="A.png" crc="54345930" mt="1440508143000"/>
+        <file name="AB.jpg" crc="19033799" mt="1440508143000"/>
+        <file name="ABC.jpg" crc="365047130" mt="1440508143000"/>
+        <file name="ABCD.jpg" crc="236385985" mt="1440508143000"/>
+        <file name="ABD.jpg" crc="4191725222" mt="1440508143000"/>
+        <file name="AC.jpg" crc="304221015" mt="1440508143000"/>
+        <file name="ACD.jpg" crc="4123654701" mt="1440508143000"/>
+        <file name="AM.jpg" crc="111393201" mt="1440508143000"/>
+        <file name="B.jpg" crc="360690234" mt="1440508143000"/>
+        <file name="B.png" crc="386624211" mt="1440508143000"/>
+        <file name="BC.jpg" crc="323548097" mt="1440508143000"/>
+        <file name="BCD.jpg" crc="3873528426" mt="1440508143000"/>
+        <file name="BD.jpg" crc="3798612590" mt="1440508143000"/>
+        <file name="C.jpg" crc="4095540954" mt="1440508143000"/>
+        <file name="C.png" crc="254727606" mt="1440508143000"/>
+        <file name="CD.jpg" crc="357648552" mt="1440508143000"/>
+        <file name="checkbox.png" crc="185430727" mt="1440508143000"/>
+        <file name="D.jpg" crc="314807419" mt="1440508143000"/>
+        <file name="D.png" crc="4100051176" mt="1440508143000"/>
+        <file name="Poster.png" crc="355608496" mt="1440508143000"/>
+        <file name="_0.jpg" crc="496157682" mt="1440508143000"/>
       </folder>
-      <file name="transparent.png" crc="424353546" mt="1440465166000"/>
-      <file name="Toma_edge.js" crc="4082447006" mt="1440465166000"/>
-      <file name="Toma.html" crc="3849706481" mt="1440465166000"/>
+      <file name="transparent.png" crc="424353546" mt="1440508143000"/>
+      <file name="Toma_edge.js" crc="4082447006" mt="1440508143000"/>
+      <file name="Toma.html" crc="3849706481" mt="1440508143000"/>
     </folder>
     <file name="video.mp4" crc="46676691" seo="true" mt="1440460899000"/>
   </folder>
@@ -66,5 +66,5 @@
     <file name="4cook-crop-u499.png" crc="4088698033" ref="index"/>
     <file name="5share.jpg" crc="322795300" seo="true" ref="index"/>
   </folder>
-  <file name="index.html" crc="295557732" seo="true" mt="1440508090032" redirect="true"/>
+  <file name="index.html" crc="4174300780" seo="true" mt="1440510762988" redirect="true"/>
 </manifest>
